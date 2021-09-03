@@ -4,6 +4,4 @@ This is a simple readme file
 
 ##Heading 2
 
-just some updates
-
-adding updates from branch
+I hope this isn't much of a problem.
